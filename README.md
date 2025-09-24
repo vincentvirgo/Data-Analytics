@@ -38,7 +38,7 @@ The Power BI dashboard provides a comprehensive overview through various charts 
 * **Averages:** Key metrics such as average age, BMI, height, and weight are clearly shown.
 * **Demographics:** Donut charts illustrate the distribution of members by **gender**  and **workout type** (Strength, Cardio, Yoga, HIIT) .
 * **Workout Habits:** A donut chart visualizes the distribution of **workout frequency** in days per week.
-<img src="image/1.3.png" width="250" alt="Home Page Screenshot 3">
+<img src="image/1.png"  alt="Home Page Screenshot 3">
 
 #### **Correlations & Impact Analysis**
 * **Correlation Matrix:** A heatmap shows the correlation between all numerical variables, helping to identify strong positive or negative relationships. * **Heart Rate by Age:** A line chart compares the average BPM per age group for both male and female members, highlighting how heart rate changes with age.
@@ -47,3 +47,4 @@ The Power BI dashboard provides a comprehensive overview through various charts 
     * **Workout Frequency:** Showing how different workout frequencies (days/week) correlate with average calories burned.
     * **Weight Group:** Analyzing the average calories burned across different weight ranges.
 * **BMI and Body Fat:** A bar chart explores the relationship between **Body Fat Percentage** and **BMI Group**, broken down by gender.
+<img src="image/2.png" alt="Home Page Screenshot 3">
